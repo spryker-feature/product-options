@@ -7,3 +7,13 @@ Assign Product Labels to highlight specific products in your shop. Customize the
 ```
 composer require spryker-feature/product-options
 ```
+
+## Recommended feature dependencies
+- [spryker-feature/product](https://github.com/spryker-feature/product)
+
+If you don't include the feature dependencies, make sure you use the respective modules instead.
+
+## Optional modules
+- [ProductOptionCartConnector ^7.0.0](https://github.com/spryker/product-option-cart-connector) (Connector)
+- [ProductOptionExtension ^1.0.0](https://github.com/spryker/product-option-extension) (Extension)
+- [ProductOptionsRestApi ^1.0.0](https://github.com/spryker/product-options-rest-api) (Glue)
