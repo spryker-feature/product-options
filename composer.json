@@ -8,12 +8,12 @@
     "require": {
         "php": ">=8.0",
         "spryker-shop/product-option-widget": "^1.4.0",
-        "spryker/product-option": "^8.13.0",
-        "spryker/product-option-storage": "^1.13.0"
+        "spryker/product-option": "^8.15.0",
+        "spryker/product-option-storage": "^1.14.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202212.x-dev"
+            "dev-master": "202307.x-dev"
         }
     },
     "suggest": {
