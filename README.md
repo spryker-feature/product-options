@@ -17,5 +17,5 @@ If you don't include the feature dependencies, make sure you use the respective 
 - [ProductOptionCartConnector ^7.1.0](https://github.com/spryker/product-option-cart-connector) (Connector)
 - [ProductOptionExtension ^1.1.0](https://github.com/spryker/product-option-extension) (Extension)
 - [ProductOptionGuiExtension ^1.0.0](https://github.com/spryker/product-option-gui-extension) (Extension)
-- [ProductOptionsRestApi ^1.2.0](https://github.com/spryker/product-options-rest-api) (Glue)
+- [ProductOptionsRestApi ^1.3.0](https://github.com/spryker/product-options-rest-api) (Legacy Glue)
 - [ProductOptionStorageExtension ^1.0.0](https://github.com/spryker/product-option-storage-extension) (Extension)
