@@ -7,8 +7,8 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker-shop/product-option-widget": "^1.4.0",
-        "spryker/product-option": "^8.18.0",
+        "spryker-shop/product-option-widget": "^1.5.0",
+        "spryker/product-option": "^8.19.0",
         "spryker/product-option-storage": "^1.14.0"
     },
     "extra": {
